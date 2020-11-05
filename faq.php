@@ -107,6 +107,12 @@
 
         <br><br>
         <ul>
+
+        <li>
+          <p><strong>How to access the shortcuts?</strong></p>
+            <p><em>To know how to use the shortcuts, press ctrl + space and you will see a list of shortcuts that can be used in the webpage</em></p>
+          </li><hr>
+
           <li>
             <p><strong>What to do if I get the wrong product?</strong></p>
             <p><em>We also support return of products or replace delivered products. We strongly recommend to ask the delivery boy to stay and tak a photo of the parcel in his presence</em></p>
